@@ -9,7 +9,7 @@ int main()
    
    if(freetime_in_minutes>60){
        cout<<"kahi ghumne jaate hai\n";
-       cout<<"plan banao saalo";
+       cout<<"plan bnao saalo";
    }
    else{
        cout<<"chaitya ya anjali ke ghar milte";
