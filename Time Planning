@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+   cout<<"kitna time hai,\nminutes me bolna ?\n";
+   int freetime_in_minutes;
+   cin>>freetime_in_minutes;
+   
+   if(freetime_in_minutes>60){
+       cout<<"kahi ghumne jaate hai\n";
+       cout<<"plan banao saalo";
+   }
+   else{
+       cout<<"chaitya ya anjali ke ghar milte";
+   }
+   return 0;
+}
