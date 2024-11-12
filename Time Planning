@@ -8,11 +8,10 @@ int main()
    cin>>freetime_in_minutes;
    
    if(freetime_in_minutes>60){
-       cout<<"kahi ghumne jaate hai\n";
-       cout<<"plan bnao saalo";
+       cout<<"chalo kahi chalte hai\n";
    }
    else{
-       cout<<"chaitya ya anjali ke ghar milte";
+       cout<<"chup chap ghar bhago";
    }
    return 0;
 }
